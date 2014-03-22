@@ -1,0 +1,13 @@
+{
+  "name": "pazguille-sticky",
+  "description": "Stick elements to the top of the viewport when the user scrolls down.",
+  "version": "0.1.3",
+  "keywords": [
+    "sticky",
+    "position",
+    "scroll"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
